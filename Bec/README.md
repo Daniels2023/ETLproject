@@ -15,8 +15,8 @@ outcome VARCHAR(30)
 backers_count INT
 country VARCHAR(2)
 currency VARCHAR(3)
-launched_date VARCHAR(30)
-end_date VARCHAR(30)
+launched_date DATE 
+end_date DATE 
 category_id VARCHAR(10) FK >- Category.category_id
 subcategory_id VARCHAR(10) FK >- Subcategory.subcategory_id
 
