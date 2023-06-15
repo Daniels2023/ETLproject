@@ -36,9 +36,9 @@ In the modeling and loading part we have successfully achieved:
 
 **- Creating the database in PostgreSQL.**
 
-**- Creating the tables.**
+**- Creating tables.**
 
-**- Loading the .csv files.**
+**- Loading .csv files.**
 
 **- Using select statement to check if the values were correctly loaded.**
 # 
