@@ -46,7 +46,6 @@ In the modeling and loading part we have successfully achieved:
 
 The following image shows the Entity Relationship Diagram for this project.
 
-[C:\Users\danie\Downloads\ERD crowdfunding_db.png](https://github.com/Daniels2023/ETLproject/blob/main/Daniel/ERD%20crowdfunding_db.png)https://github.com/Daniels2023/ETLproject/blob/main/Daniel/ERD%20crowdfunding_db.png
-
+![image](https://github.com/Daniels2023/ETLproject/assets/124798004/200a939a-d7e9-44ad-a999-23fa57dd798f)
 
 
